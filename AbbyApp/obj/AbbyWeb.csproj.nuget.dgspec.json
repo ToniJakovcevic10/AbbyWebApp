@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tonij\\Desktop\\projektici\\UdemyC#Courses\\AbbyWeb\\AbbyWeb.csproj": {}
+    "C:\\Users\\tonij\\Desktop\\projektici\\UdemyC#Courses\\AbbyWeb\\AbbyApp\\AbbyWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tonij\\Desktop\\projektici\\UdemyC#Courses\\AbbyWeb\\AbbyWeb.csproj": {
+    "C:\\Users\\tonij\\Desktop\\projektici\\UdemyC#Courses\\AbbyWeb\\AbbyApp\\AbbyWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tonij\\Desktop\\projektici\\UdemyC#Courses\\AbbyWeb\\AbbyWeb.csproj",
+        "projectUniqueName": "C:\\Users\\tonij\\Desktop\\projektici\\UdemyC#Courses\\AbbyWeb\\AbbyApp\\AbbyWeb.csproj",
         "projectName": "AbbyWeb",
-        "projectPath": "C:\\Users\\tonij\\Desktop\\projektici\\UdemyC#Courses\\AbbyWeb\\AbbyWeb.csproj",
+        "projectPath": "C:\\Users\\tonij\\Desktop\\projektici\\UdemyC#Courses\\AbbyWeb\\AbbyApp\\AbbyWeb.csproj",
         "packagesPath": "C:\\Users\\tonij\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tonij\\Desktop\\projektici\\UdemyC#Courses\\AbbyWeb\\obj\\",
+        "outputPath": "C:\\Users\\tonij\\Desktop\\projektici\\UdemyC#Courses\\AbbyWeb\\AbbyApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

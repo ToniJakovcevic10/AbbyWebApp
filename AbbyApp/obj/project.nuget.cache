@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "17WA5RH6s5znMooIEuF1QcI9YDSIiXokZ+6P5s84y/ePIsFlAGfp6U/U/VPqxglqQOPxyfSpQ+y6fOFHV6beMA==",
+  "dgSpecHash": "R2Qv7IzZmb08Kxws2FJJ/X1emVphRscCfB10Umk4VErJu3ww2umGRcMMPgGIUMqgrnnQWeK/n5A1Mv2Eja0I6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tonij\\Desktop\\projektici\\UdemyC#Courses\\AbbyWeb\\AbbyWeb.csproj",
+  "projectFilePath": "C:\\Users\\tonij\\Desktop\\projektici\\UdemyC#Courses\\AbbyWeb\\AbbyApp\\AbbyWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tonij\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\tonij\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
